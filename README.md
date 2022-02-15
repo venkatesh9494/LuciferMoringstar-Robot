@@ -11,10 +11,10 @@
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
+<a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 ### 🔘 <a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
 
@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/bossstory/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
@@ -42,7 +42,7 @@
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/gBLTsH-IXr0)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
 * `FORCE_SUB`: ID of channel. Without subscribing this channel users cannot use bot.
 * `AUTH_GROUPS` : Id Of Groups Which Bot Should Work As Autofilter, Bot Can Only Work In Thease Groups. If Not Given , Bot Can Be Used In Any Group.
