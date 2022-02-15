@@ -1,7 +1,7 @@
 {
     "name": "LuciferMoringstar_Robot",
     "description": "Super Fast Telegram Auto Filter Bot",
-    "logo": "https://telegra.ph/file/aabbe1b1f267be91206c5.jpg",
+    "logo": "https://telegra.ph/file/4b5095e9ce77a82e56a45.jpg",
     "stack": "container",
     "keywords": [
       "best",
@@ -10,19 +10,19 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA",
+    "repository": "https://github.com/bossstory/LuciferMoringstar-Robot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
+            "description": "Your Bot Token From BOT FATHER",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://youtu.be/5eEsvLAKVc0 or @MT_MytelegramOrg_Bot",
+            "description": "Get this value from MT_MytelegramOrg_Bot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from https://youtu.be/5eEsvLAKVc0 or @MT_MytelegramOrg_Bot",
+            "description": "Get this value from MT_MytelegramOrg_Bot",
             "value": ""
         },
         "CHANNELS": {
@@ -59,7 +59,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "Mongodb from https://youtu.be/gBLTsH-IXr0",
+            "description": "Mongodb",
             "value": ""
         },
         "SPELL_MODE": {
@@ -78,12 +78,12 @@
         },
         "DEV_NAME": {
             "description": "Creator Name or Username ",
-            "value": "Muhammed",
+            "value": "HOWTODO",
             "required": true
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://telegram.dog/Mo_Tech_Group",
+            "value": "https://t.me/HTDGROUPFORMOVIES",
             "required": true
         }
     },
