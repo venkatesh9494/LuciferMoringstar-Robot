@@ -283,7 +283,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
                  InlineKeyboardButton("😎 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="url="https://youtu.be/zD5U8BrdnGA"),
+                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/zD5U8BrdnGA"),
                  InlineKeyboardButton("🤖 Update", url="https://t.me/HTDGROUPFORMOVIES")
                  ]]               
             await query.message.edit(text=START_MSG.format(mention=query.from_user.mention, bot_name=bot_info.BOT_NAME, bot_username=bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
